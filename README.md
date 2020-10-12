@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on computer vision project
-- 🌱 I’m currently learning NLP from Tensorflow in Practice Course
+- 🌱 I’m currently learning VAE
 - 👯 I’m looking to collaborate on Generate Art with GANs
 - 🤔 I’m looking for help with Docker deployment
 - 💬 Ask me about CNN and tensorflow
