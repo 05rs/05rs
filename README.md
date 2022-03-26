@@ -5,6 +5,5 @@
 
 
 - 🔭 I’m currently working at GoBOLT as SDE-1 Backendt
-- 📫 How to reach me: directly mail to work.raghavsethi@gmail.com
 - ❤ Microservices
 - ⚡ Fun fact: Like to travel
