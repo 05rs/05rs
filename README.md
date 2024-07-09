@@ -4,6 +4,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at GoBOLT as SDE-1 Backendt
+- 🔭 I’m currently working at Adani as Software Developer & Ass. Manager
 - ❤ Microservices
-- ⚡ Fun fact: Like to travel
+- ⚡ Fun fact: love to travel
