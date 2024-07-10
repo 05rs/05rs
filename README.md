@@ -4,6 +4,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at Adani as Software Developer & Ass. Manager
+- 🔭 I’m currently working at Adani as Software Developer & Associate Manager
 - ❤ Microservices
 - ⚡ Fun fact: love to travel
